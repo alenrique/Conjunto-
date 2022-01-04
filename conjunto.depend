@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1613414407 source:c:\users\henrique alencar\onedrive\documentos\conjunto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto1.h"
+
+1613068869 c:\users\henrique alencar\onedrive\documentos\conjunto\conjunto.h
+
+1613069540 source:c:\users\henrique alencar\onedrive\documentos\conjunto\conjunto.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto.h"
+
+1613414597 source:c:\users\henrique alencar\onedrive\documentos\conjunto\conjunto1.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto1.h"
+
+1613229838 c:\users\henrique alencar\onedrive\documentos\conjunto\conjunto1.h
+
